@@ -1,4 +1,4 @@
-PowerBI Project 3 Amazon year wise sales Dashboard
+PowerBI Project  Amazon year wise sales Dashboard
 
 🔹 Goal:
 The goal of this project is to perform an in-depth analysis of sales performance and profitability metrics for the company. We will focus on understanding key performance indicators (KPIs), sales projections, product units sold, returns, and the overall profitability across different customer segments and regions. The insights generated from this analysis will support strategic decision-making for optimizing sales, improving profit margins, and targeting growth opportunities.
