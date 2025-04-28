@@ -1,7 +1,7 @@
 PowerBI Project 3 Amazon year wise sales Dashboard
 
 🔹 Goal:
-The goal of this project is to analyze Amazon product data to uncover patterns in pricing, customer reviews, ratings, and product categories. By performing exploratory data analysis and visualization, the project aims to identify key factors influencing product success, customer satisfaction, and competitive positioning. The ultimate objective is to provide data-driven insights that can assist sellers and businesses in optimizing their strategies on the Amazon platform.
+The goal of this project is to perform an in-depth analysis of sales performance and profitability metrics for the company. We will focus on understanding key performance indicators (KPIs), sales projections, product units sold, returns, and the overall profitability across different customer segments and regions. The insights generated from this analysis will support strategic decision-making for optimizing sales, improving profit margins, and targeting growth opportunities.
 
 🔹 Skills Demonstrated:
 •	Data cleaning & transformation
